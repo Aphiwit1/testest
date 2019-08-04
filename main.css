@@ -1,0 +1,191 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Kanit', sans-serif;
+}
+
+body , html {
+    scroll-behavior: smooth;
+}
+
+body p {
+    font-size: 22px;
+}
+
+
+
+.navbar .navbar-collapse {
+    text-align: center;
+  }
+
+#navbar-brand-image {
+    width: 180px;
+
+}
+
+.bg-color-download {
+    background-color: #93c447;
+}
+
+
+
+
+  /* .navbar-fixed-top.scrolled {
+    background-color: #fff !important;
+    transition: background-color 200ms linear;
+  } */
+  
+ 
+
+#jumbotron1 {
+    background-repeat: no-repeat;
+    background-image: url(image/cover1.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    border-radius: 0px;
+      margin-bottom: 0rem;
+      text-align: left;
+      background-color: #418fe8;
+}
+
+h4 {
+    font-size: 26px;
+    font-weight: 600;
+}
+
+b {
+    color: #418fe8;
+}
+
+
+#appstore1 {
+width: 140px;
+display: block;
+  margin-left: auto;
+ 
+}
+
+#appstore2 {
+    width: 140px;
+    display: block;
+      
+      margin-right: auto;
+    }
+
+#mobile {
+    width:100%;
+    display: block;
+    margin:auto;
+}
+
+
+#section1 {
+  padding-top: 100px;
+
+}
+
+.aboutPamba1{
+  
+}
+
+.aboutPamba1 p {
+    
+}
+
+.Good-Pamba {
+color:#418fe8;
+    text-align: center;
+   
+}
+
+#greenText {
+    color: #75a52d;
+}
+
+.Good-Pamba2 {
+    color:#2c2c2e;
+        text-align: center;
+        background-color: #93c447;
+       
+ }
+
+ .Good-Pamba2 h4 {
+     color: aliceblue;
+ }
+
+
+ .Good-Pamba2 h5 {
+    color:  #93c447;
+}
+
+ 
+
+
+.aboutPamba p {
+    color: #2c2c2e; 
+    
+}
+
+#pambaIs {
+    width: 400px;
+
+}
+
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+   text-align: center;
+}
+
+.card-img-top {
+    width: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+
+#jumbotron2 {
+    background-repeat: no-repeat;
+    background-image: url(image/781.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    border-radius: 0px;
+}
+
+
+
+
+#dowload {
+    text-align: center;
+   
+}
+
+footer h2 {
+    color: #93c447
+}
+
+
+footer-copyright {
+    background-color: #2c2c2e;
+}
+
+
+
+
+@media only screen and (min-width: 1200px) {
+    .jumbotron p{
+        font-size: 24px;
+        font-weight: 400;
+    }
+    .text-show {
+        padding-top: 150px;
+      
+    }
+  }
+
+
