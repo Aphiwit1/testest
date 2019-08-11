@@ -11,7 +11,8 @@ body , html {
 }
 
 body p {
-    font-size: 22px;
+    /* font-size: 20px; */
+    font-size: 1.25rem;
 }
 
 
@@ -76,7 +77,7 @@ display: block;
     }
 
 #mobile {
-    width:100%;
+    width:90%;
     display: block;
     margin:auto;
 }
@@ -189,3 +190,10 @@ footer-copyright {
   }
 
 
+
+   /* for policy page */
+
+   .policy p   {
+       font-size: 1.1rem;
+       color: #6c757d;
+   }
