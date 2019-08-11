@@ -219,6 +219,10 @@ footer-copyright {
         font-weight: 400;
        
     }
+
+    body p {
+        font-size: 1rem;
+    }
   }
 
  
