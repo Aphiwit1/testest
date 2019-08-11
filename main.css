@@ -189,6 +189,41 @@ footer-copyright {
     }
   }
 
+  /* Laptop */
+  @media only screen and (min-width: 1200px) {
+    .jumbotron p{
+        font-size: 24px;
+        font-weight: 400;
+    }
+    .text-show {
+        padding-top: 150px;
+      
+    }
+  }
+
+  /* iPad */
+  @media only screen and (max-width: 768px) {
+    .jumbotron p{
+        font-size: 1rem;
+        font-weight: 400;
+       
+    }
+
+
+  }
+
+  /* iPhone */
+  @media only screen and (max-width: 414px) {
+    .jumbotron p{
+        font-size: 1rem;
+        font-weight: 400;
+       
+    }
+  }
+
+ 
+
+
 
 
    /* for policy page */
